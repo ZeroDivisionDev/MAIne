@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1ecfe84f2e78a4e9ed74ded6915f94, type: 3}
+  m_Name: Cactus
+  m_EditorClassIdentifier: 
+  id: 12
+  isBlock: 1
+  isNotCube: 0
+  type: 12
+  reloadSpeed: 0.4
+  isHeal: 0
+  heal: 0
+  sprite: {fileID: 21300000, guid: f57ac4b89323d044d8f62fdced928945, type: 3}
+  mesh: {fileID: 5547163273410755496, guid: 76245cb5cb702f44c9a3bedeb18ea72a, type: 3}
+  maxStack: 64
+  damage: 1
